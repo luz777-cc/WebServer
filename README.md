@@ -7,6 +7,6 @@ Aplicaciones: Este curso te llevará paso a paso a través de la creación de un
 
 Objetivos Específicos:
 
-    Entender como hacer uso de los métodos get y post.
+- Entender como hacer uso de los métodos get y post.
 
-    Aprender sobre el manejo de cookies 
+- Aprender sobre el manejo de cookies 
