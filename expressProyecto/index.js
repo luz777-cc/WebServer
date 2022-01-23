@@ -15,3 +15,8 @@ app.listen(8000, function () {
     console.log('Servidor corriendo en el puerto 8000');
  });
  
+//Correr la dirección URL en el navegador como:
+//http://localhost:8000/saludo
+
+//Correr la dirección URL en el navegador como:
+//http://localhost:8000/
